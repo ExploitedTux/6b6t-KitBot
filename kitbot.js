@@ -5,7 +5,7 @@ const {pathfinder,Movements,goals: { GoalNear }} = require('mineflayer-pathfinde
 
 //config
 const WHITELIST = [
-  'injectexploit',
+  '',
   //Add your accounts here
 ]
 const pass = '123456' //your password here
