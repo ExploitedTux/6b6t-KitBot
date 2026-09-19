@@ -15,12 +15,14 @@ Requirements
     minecraft-data
     mineflayer-pathfinder
 
-Installation
+Quick Start
 
- 1.   Clone the repository.
- 2.   Run npm install.
- 3.   Configure kitbot.js to your liking.
- 4.   Run the bot with node kitbot.js.
+git clone https://github.com/ExploitedTux/6b6t-KitBot.git
+cd 6b6t-KitBot
+npm install
+
+configure kitbot.js for your bot
+node kitbot.js
 
 Configuration
 
