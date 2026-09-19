@@ -33,4 +33,5 @@ Important
 
 Support
 
-discord.gg/6b6tlec
+discord.gg/6B6TLEC
+exploitedtux
