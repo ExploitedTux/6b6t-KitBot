@@ -1,4 +1,4 @@
-Mineflayer Kitbot
+Mineflayer Kitbot - Im too lazy to update i gotta build cat girl mapart im sorry
 
 A simple kitbot for 6b6t made with Mineflayer.
 Features
